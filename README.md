@@ -1,5 +1,7 @@
 # Simple Firewall Simulator
 
+### Simple Projects #2
+
 Welcome to the Simple Firewall Simulator! This interactive tool allows you to simulate configuring firewall rules and visualize their effects. It's designed to help you understand how different rules impact network traffic and enhance your knowledge of firewall configurations.
 
 ## Features
