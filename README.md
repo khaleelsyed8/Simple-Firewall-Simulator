@@ -1,22 +1,19 @@
-# Password Strength Checker
+# Simple Firewall Simulator
 
-### Simple Projects #2
-
-Welcome to the Password Strength Checker! This tool helps you evaluate the strength of your passwords by checking various criteria including the number of characters, the presence of lowercase letters, uppercase letters, numbers, and special characters. 
+Welcome to the Simple Firewall Simulator! This interactive tool allows you to simulate configuring firewall rules and visualize their effects. It's designed to help you understand how different rules impact network traffic and enhance your knowledge of firewall configurations.
 
 ## Features
 
-- **Character Count**: Ensures the password meets the minimum length requirement.
-- **Lowercase Letters**: Validates the inclusion of lowercase letters.
-- **Uppercase Letters**: Checks for uppercase letters.
-- **Numbers**: Verifies the presence of numeric characters.
-- **Special Characters**: Ensures that special characters are included.
+- **Rule Configuration**: Create and adjust firewall rules with an intuitive interface.
+- **Simulation**: See how your rules affect incoming and outgoing traffic in real-time.
+- **Animations**: Enjoy elegant animations that illustrate rule application and network traffic flow.
+- **Web Browser Simulator**: (Optional) Test how rules interact with a simulated web browser based on your configurations.
 
 ## How It Works
 
-1. **Enter Your Password**: Type your password into the input field.
-2. **Real-Time Validation**: As you type, the tool will automatically validate your password and provide feedback on its strength.
-3. **Strength Indicators**: You will receive suggestions and indications on how to make your password stronger.
+1. **Add Rules**: Use the interface to define firewall rules, specifying criteria like source and destination IPs, ports, and actions.
+2. **Simulate Traffic**: Observe how different rules impact simulated network traffic.
+3. **View Results**: Check the results of your configuration and make adjustments as needed.
 
 ## Demo Images: 
 ![image](https://github.com/user-attachments/assets/56849f7b-0c82-40fe-8cf3-85d747cbb967)
@@ -24,9 +21,9 @@ Welcome to the Password Strength Checker! This tool helps you evaluate the stren
 
 ## Live Demo
 
-Try out the Password Strength Checker live here: [Password Strength Checker](https://khaleelsyed8.github.io/Password-Strength-Analyzer/PasswordStrength/index.html)
+Try out the Password Strength Checker live here: [Password Strength Checker](https://khaleelsyed8.github.io/Simple-Firewall-Simulator/)
 
 ## Contributing
 
-Feel free to fork this repository, make changes, and submit a pull request. If you have any suggestions or issues, please open an issue on the [GitHub repository](https://github.com/khaleelsyed8/Password-Strength-Analyzer).
+Feel free to fork this repository, make changes, and submit a pull request. If you have any suggestions or issues, please open an issue on the [GitHub repository](https://khaleelsyed8.github.io/Simple-Firewall-Simulator/).
 
