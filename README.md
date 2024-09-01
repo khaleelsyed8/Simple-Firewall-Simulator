@@ -27,5 +27,5 @@ Try out the Password Strength Checker live here: [Password Strength Checker](htt
 
 ## Contributing
 
-Feel free to fork this repository, make changes, and submit a pull request. If you have any suggestions or issues, please open an issue on the [GitHub repository](https://khaleelsyed8.github.io/Simple-Firewall-Simulator/).
+Feel free to fork this repository, make changes, and submit a pull request. If you have any suggestions or issues, please open an issue on the [GitHub repository](https://github.com/khaleelsyed8/Simple-Firewall-Simulator).
 
